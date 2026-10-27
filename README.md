@@ -38,7 +38,7 @@ This project explores an alternative way to communicate using eye movements. It 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Blink-to-Morse-Code-Decoder.git
+git clone https://github.com/stutidoshi/Blink-to-Morse-Code-Decoder.git
 cd Blink-to-Morse-Code-Decoder
 ```
 
